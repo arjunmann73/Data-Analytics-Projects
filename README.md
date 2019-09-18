@@ -1,14 +1,12 @@
 # Machine-Learning
-Machine Learning concepts using Python with real world datasets.
 
-Concepts:
-[x] Regression:
+========
+### Machine Learning concepts using Python with real world datasets.
 
----
-C02 emissions - univariate linear regression
-
----
-[] Classification
-[] Clustering
-[] Neural Networks
-
+## Concepts
+	- Regression
+	- Classification
+	- Clustering
+	- Anomaly Detection
+	- Neural Networks
+	
