@@ -4,6 +4,9 @@
 
 ## Concepts
 	- Regression
+		-- Univarite Linear Regression
+		-- Multivariate Linear Regression
+		-- Non-Linear Regression
 	- Classification
 	- Clustering
 	- Anomaly Detection
