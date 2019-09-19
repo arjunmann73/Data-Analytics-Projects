@@ -8,6 +8,7 @@
 		-- Multivariate Linear Regression
 		-- Non-Linear Regression
 	- Classification
+		-- K-Nearest Neighbours
 	- Clustering
 	- Anomaly Detection
 	- Neural Networks
