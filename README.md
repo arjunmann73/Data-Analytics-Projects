@@ -9,6 +9,7 @@
 		-- Non-Linear Regression
 	- Classification
 		-- K-Nearest Neighbours
+		-- Decision tree
 	- Clustering
 	- Anomaly Detection
 	- Neural Networks
