@@ -1,4 +1,4 @@
-# Machine Learning using Python
+# Data Analytics Projects
 
 ### Machine Learning concepts using Python with real world datasets.
 
