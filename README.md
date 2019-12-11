@@ -8,3 +8,4 @@
 4. [Drug Prediction](https://github.com/arjunmann73/Machine-Learning/tree/master/Drug%20Prediction): Decision Tree
 5. [IBM Classification Project](https://github.com/arjunmann73/Machine-Learning/tree/master/IBM%20Classification%20Project): KNN, SVM, Decision Tree
 6. [IRIS Pattern Recognition](https://github.com/arjunmann73/Data-Analytics-Projects/tree/master/IRIS%20Pattern%20Recognition): Logistic Regression
+7. [Loan Prediction](https://github.com/arjunmann73/Data-Analytics-Projects/tree/master/Loan%20Prediction): Logistic Regression
