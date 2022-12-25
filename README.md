@@ -10,3 +10,4 @@
 6. [IRIS Pattern Recognition](https://github.com/arjunmann73/Data-Analytics-Projects/tree/master/IRIS%20Pattern%20Recognition): Logistic Regression
 7. [Loan Prediction](https://github.com/arjunmann73/Data-Analytics-Projects/tree/master/Loan%20Prediction): Logistic Regression
 8. [Bigmart Sales Prediction](https://github.com/arjunmann73/Data-Analytics-Projects/tree/master/Bigmart%20Sales%20Prediction): Multivariate Linear Regression
+9. [Gold Price Prediction](https://github.com/dvamsidhar2002/Gold-Price-Prediction-using-Random-Forest-Regressor) : Random Forest Regressor
